@@ -1,0 +1,8 @@
+D:\Work\Desenv\MVC Core\WebCore\AbstractionApp\Abstractionapp.Data\obj\Debug\netcoreapp3.1\Abstractionapp.Infra.Data.AssemblyInfoInputs.cache
+D:\Work\Desenv\MVC Core\WebCore\AbstractionApp\Abstractionapp.Data\obj\Debug\netcoreapp3.1\Abstractionapp.Infra.Data.AssemblyInfo.cs
+D:\Work\Desenv\MVC Core\WebCore\AbstractionApp\Abstractionapp.Data\bin\Debug\netcoreapp3.1\Abstractionapp.Infra.Data.deps.json
+D:\Work\Desenv\MVC Core\WebCore\AbstractionApp\Abstractionapp.Data\bin\Debug\netcoreapp3.1\Abstractionapp.Infra.Data.dll
+D:\Work\Desenv\MVC Core\WebCore\AbstractionApp\Abstractionapp.Data\bin\Debug\netcoreapp3.1\Abstractionapp.Infra.Data.pdb
+D:\Work\Desenv\MVC Core\WebCore\AbstractionApp\Abstractionapp.Data\obj\Debug\netcoreapp3.1\Abstractionapp.Infra.Data.dll
+D:\Work\Desenv\MVC Core\WebCore\AbstractionApp\Abstractionapp.Data\obj\Debug\netcoreapp3.1\Abstractionapp.Infra.Data.pdb
+D:\Work\Desenv\MVC Core\WebCore\AbstractionApp\Abstractionapp.Data\obj\Debug\netcoreapp3.1\Abstractionapp.Infra.Data.csprojAssemblyReference.cache
